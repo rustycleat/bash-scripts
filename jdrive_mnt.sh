@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+#First Attempt
 TARGET_IP="192.168.0.4"
 SHARE_NAME="Jdrive"
 MOUNT_POINT="/mnt/jdrive"
